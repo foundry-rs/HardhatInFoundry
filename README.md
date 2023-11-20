@@ -9,3 +9,5 @@ To get started:
 2. Run `npm i && forge install` to install dependencies.
 3. Run `npx hardhat test` to run Hardhat tests.
 4. Run `forge test` to run Foundry tests.
+
+Please note that this is a basic template meant to augment the tutorial. You can check out a more professional template [here](https://github.com/pcaversaccio/hardhat-project-template-ts).
